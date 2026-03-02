@@ -37,9 +37,8 @@ This system is a foundational step in learning programming using C++ and serves 
 
 ## 📈 **Future Improvements (Planned for V2)**
 
-- **Enhanced Security**: Implement stronger password security and encrypted storage of card details.
+- **Enhanced Security**: Implement stronger password security.
 - **Interest Calculation**: Add a feature to calculate interest on the balance over time.
-- **Multiple User Support**: Allow multiple users to interact with the ATM without restarting the program.
 - **ATM Operations Logs**: Log all ATM transactions for monitoring and debugging purposes.
 - **Improved User Interface**: Enhance the console UI to make it more intuitive.
 
